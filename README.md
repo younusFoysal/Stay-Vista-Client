@@ -64,18 +64,18 @@ The goal is to develop a user-friendly hotel booking platform similar to Airbnb,
 
 ### Admin Credentials:
 ```
-Admin Email: foysal@gmail.com
-Admin Pin: 12312
+Admin Email: admin@gmail.com
+Admin Pin: admin123**
 ```
-### Agent Credentials:
+### Host Credentials:
 ```
-Admin Email: altaf@gmail.com
-Admin Pin: 12378
+Admin Email: host@gmail.com
+Admin Pin: host123**
 ```
-### User Credentials:
+### Guest User Credentials:
 ```
-Admin Email: nafisa@gmail.com
-Admin Pin: 12345
+Admin Email: guest@gmail.com
+Admin Pin: guest123**
 ```
 
 
